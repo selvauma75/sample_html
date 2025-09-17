@@ -1,12 +1,5 @@
-# 25+ HTML Projects for Beginners with Source Code
 
 Welcome to this collection of 25+ beginner-friendly HTML projects! 🎉  
-These mini-projects are perfect for practicing core HTML skills and building your portfolio. Each project comes with a short description and source code example.
-
-Whether you're a student, aspiring web developer, or coding enthusiast, these projects will help you get hands-on experience with HTML fundamentals.
-
----
-
 ## 🔰 Project List
 
 1. Hello World Page  
@@ -45,35 +38,3 @@ You can:
 - Copy the `.html` files and run them locally in your browser
 - Modify and experiment with the code to learn by doing
 
-Each project is self-contained and does not require any frameworks or build tools — just plain HTML (and some inline CSS).
-
----
-
-## 💡 Who This Is For
-
-- Beginners learning HTML
-- Students and instructors
-- Anyone building a front-end portfolio
-- Coding bootcamp participants
-
----
-
-## 🛠️ How to Run
-
-1. Clone this repo or [download the ZIP](https://github.com/your-username/html-beginner-projects/archive/refs/heads/main.zip)
-2. Open any project `.html` file in your browser
-3. Tweak the code to make it your own!
-
-```bash
-git clone https://github.com/your-username/html-beginner-projects.git
-cd html-beginner-projects
-```
-
-## 📖 License
-This project is open source and free to use under the MIT License.
-
-## 🌐 Article
-Read the full tutorial with explanations and code at:
-👉 [https://www.djamware.com/](https://www.djamware.com/post/6833060549c01e5001aa86ae/25-html-projects-for-beginners-with-source-code)
-
-Happy coding! 💻🚀
