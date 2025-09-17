@@ -1,6 +1,6 @@
 
 Welcome to this collection of 25+ beginner-friendly HTML projects! 🎉  
-## 🔰 Project List
+Project List
 
 1. Hello World Page  
 2. Simple Resume Page  
@@ -28,9 +28,6 @@ Welcome to this collection of 25+ beginner-friendly HTML projects! 🎉
 24. HTML Page with Table of Contents  
 25. Simple Image Slider (Manual HTML Version)  
 
----
-
-## 📂 How to Use
 
 You can:
 
